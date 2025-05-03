@@ -5,9 +5,7 @@
 
 > Un projet 42 pour lire une ligne d'un fichier à chaque appel de fonction, en C !
 
-<p align="center">
-    <img src="https://res.cloudinary.com/dzo1cimyr/image/upload/v1746300692/cub3d_dn7sub.gif" width="800">
-</p>
+
 
 ---
 
